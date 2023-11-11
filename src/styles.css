@@ -1,0 +1,21 @@
+* {
+  margin: 2rem;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Inter", Helvetica, sans-serif;
+}
+
+input,
+button,
+textarea {
+  padding: 0.8rem;
+  font-family: "Inter", Helvetica, sans-serif;
+}
